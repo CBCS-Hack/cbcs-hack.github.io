@@ -3,18 +3,42 @@ project:
   output-dir: docs
 
 website:
-  title: "cbcs-hack.github.io"
+  title: "CBCS Coding Club"
   navbar:
+    background: dark
+    type: dark
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: "Home"
+      - href: 00_about.qmd
+        text: "Who are we?"
+      - href: 01_rules.qmd
+        text: "House Rules"
+      - href: 02_resources.qmd
+        text: "Coding Resources"
+      - href: 03_past_meetups.qmd
+        text: "Meetups"
+      - href: 04_contact.qmd
+        text: "Contact Us"
+        
+  page-footer:
+    center: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left:  "&copy; Website Tin Buenafe 2025"
 
 format:
   html:
-    theme: cosmo
+    theme: lumen
     css: styles.css
     toc: true
+    toc-depth: 2
+    toc-expand: 2
+    toc-location: right
+    code-copy: true
+    code-overflow: scroll
+    link-external-newwindow: true
+    #link-external-icon: true
+    #link-external-filter: '^(?:http:|https:)\/\/www\.quarto\.org\/custom'
+    embed-resources: true
 
 editor: visual
 

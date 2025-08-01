@@ -1,11 +1,24 @@
 ---
-title: "cbcs-hack.github.io"
+title: ""
+from: markdown+emoji
 ---
 
-This is a Quarto website.
+# Welcome to the CBCS Coding Club!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Insert banner image here...
 
-```{r}
-1 + 1
-```
+# Our vision
+
+CBCS Coding Club is a student-led group that aims to provide a common space for coding and programming geeks and enthusiasts alike to interact and share their passion about coding. The CBCS Coding Club comprises Higher Degree by Research (HDR) students and Early Career Researchers (ECRs) in the [Centre for Biodiversity and Conservation Science (CBCS)](https://cbcs.centre.uq.edu.au/) as well as the [School of the Environment (SENV)](https://environment.uq.edu.au/) at the University of Queensland. The club's vision is to provide a space for the gathering of like-minded coders and programmers in the fields of conservation and environmental science regardless of their levels of coding expertise.
+
+# Join us!
+
+:computer: Do you love coding?
+
+:bulb: Are you interested in learning more about coding?
+
+:thinking: Do you want to improve your coding skills but don't know where to start? 
+
+:fire: Do you feel the burning urge to geek out about your favorite package or function? 
+
+If your answer is yes to any of those questions, then [Join Coding Club](04_contact.qmd){.btn .btn-primary}!

@@ -1,0 +1,46 @@
+---
+title: "Who are we?"
+---
+
+The CBCS Coding Club comprises a group of students and early career researchers in CBCS and SENV at the University of Queensland. Coding Club is currently co-led by:
+
+## Kristine (Tin) Buenafe
+
+::::: columns
+::: {.column width="40%" align="center"}
+<img src="images/Tin_Buenafe_cropped.jpg" style="width: 90%; object-fit: contain"/>
+
+<a href="https://snbuenafe.github.io" target="_blank" class="icons">{{< iconify streamline:web >}}</a>
+<a href="https://scholar.google.com/citations?user=jEIS64UAAAAJ&hl=en&oi=ao" target="_blank" class="icons">{{< iconify academicons:google-scholar >}}</a>
+:::
+
+::: {.column width="60%"}
+[Tin](https://snbuenafe.github.io/) is a PhD candidate from the Philippines working on climate-smart marine conservation planning with a particular focus in the high seas. While she enjoys coding all-day, working to develop reproducible tools and frameworks used to facilitate the uptake of climate-smart approaches in on-the-ground, applied conservation planning approaches, she wishes to continue navigating the science-policy interface, particularly in relation to the Biodiversity Beyond National Jurisdiction (BBNJ) Agreement.
+
+{{< iconify skill-icons:r-dark size=50px >}}  
+:::
+:::::
+
+<!-- ## Yi Fei Chung -->
+
+<!-- ::::: columns -->
+<!-- ::: {.column width="40%" align="center"} -->
+
+<!-- ::: -->
+
+<!-- ::: {.column width="60%"} -->
+
+<!-- ::: -->
+<!-- ::::: -->
+
+<!-- ## Rosa Mar Dominguez-Martinez -->
+
+<!-- ::::: columns -->
+<!-- ::: {.column width="40%" align="center"} -->
+
+<!-- ::: -->
+
+<!-- ::: {.column width="60%"} -->
+
+<!-- ::: -->
+<!-- ::::: -->
