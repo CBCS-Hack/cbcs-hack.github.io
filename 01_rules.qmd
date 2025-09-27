@@ -1,0 +1,18 @@
+---
+title: ""
+from: markdown+emoji
+---
+
+Joining Coding Club is easy, but our members also follow some simple (and straightforward) rules:
+
+# Rule 1
+Be nice. Be respectful. Be inclusive. :busts_in_silhouette:
+
+# Rule 2
+We'll all learn from each other. It's a give and take. :handshake:
+
+# Rule 3
+We are **not** required to host workshops. There are better resources for these, and we would gladly point you to these resources if needed. :notebook_with_decorative_cover:
+
+
+Coding club is just as good as its members. So if you like what Coding Club is doing, support the club by participating in meet-ups and events and being more active.

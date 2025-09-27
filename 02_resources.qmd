@@ -1,0 +1,65 @@
+---
+title: "Coding Resources"
+---
+
+Part of the CBCS Coding Club's initiative is to compile a list of different coding resources that could support environmental and conservation research. This compilation is 'alive', and so if there are any resources that you think are missing from the list below (we know that we are missing lots!), please do contact any of the current coding club leads and we can add them.
+
+# Databases
+
+Conservation and environmental researchers often use the same open-access data. Here are some of the databases that are often used in these research fields, some of which can be accessed directly through programming packages.
+
+::::: columns
+
+::: {.column width="50%" align="center"}
+<img src="images/resources/IUCN_Red_List.png" style="width: 50%; object-fit: contain"/>
+
+[**IUCN Red List**](https://www.iucnredlist.org/)
+
+There are lots of different R packages that can be used to access the [IUCN Red List's data repository](https://www.iucnredlist.org/resources/data-repository).
+
+* [`iucnredList`](https://iucn-uk.github.io/iucnredlist/)
+* [`rredlist`](https://cran.r-project.org/web/packages/rredlist/vignettes/rredlist.html)
+* [`iucnr`](https://cran.r-project.org/web/packages/iucnr/index.html)
+* [`red`](https://bdj.pensoft.net/article/20530/)
+
+:::
+
+::: {.column width="50%" align="center"}
+<img src="images/resources/wdpa.jpg" style="width: 50%; object-fit: contain"/>
+
+[**World Database on Protected Areas (WDPA)**](https://www.protectedplanet.net/en/thematic-areas/wdpa?tab=WDPA)
+
+* [`wdpar`](https://cran.r-project.org/web/packages/wdpar/vignettes/wdpar.html)
+
+:::
+:::::
+
+::::: columns
+::: {.column width="50%" align="center"}
+
+<img src="images/resources/tern.png" style="width: 80%; object-fit: contain"/>
+
+[**Australia's Terrestrial Ecosystem Network (TERN)**](https://www.tern.org.au/)
+
+Explore TERN's [data portals and services](https://www.tern.org.au/environmental-data-service/).
+
+* [`ausplotsR`](https://github.com/ternaustralia/ausplotsR)
+
+:::
+
+::: {.column width="50%" align="center"}
+:::
+:::::
+
+# Packages
+
+These are some of the most common packages used in a lot of analysis in conservation and environmental research.
+
+# Online books
+
+If you're the type to learn more by reading textbooks, here are some great online textbooks that you can read.
+
+# Websites and online resource hubs
+
+There are thousands of different packages in different programming languages, and sometimes, the package just doesn't have great documentation. Fear not! There are some websites and online resource hubs that dive deep into some of these packages and their different functions.
+

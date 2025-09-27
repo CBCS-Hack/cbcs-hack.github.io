@@ -39,6 +39,48 @@
     "href": "00_about.html#kristine-tin-buenafe",
     "title": "Who are we?",
     "section": "Kristine (Tin) Buenafe",
-    "text": "Kristine (Tin) Buenafe\n\n\n\n \n\nTin is a PhD candidate from the Philippines working on climate-smart marine conservation planning with a particular focus in the high seas. While she enjoys coding all-day, working to develop reproducible tools and frameworks used to facilitate the uptake of climate-smart approaches in on-the-ground, applied conservation planning approaches, she wishes to continue navigating the science-policy interface, particularly in relation to the Biodiversity Beyond National Jurisdiction (BBNJ) Agreement."
+    "text": "Kristine (Tin) Buenafe\n\n\n\n  \n\nI am a PhD candidate from the Philippines working on climate-smart marine conservation planning with a particular focus in the high seas. While I enjoy coding all-day, working to develop reproducible tools and frameworks used to facilitate the uptake of climate-smart approaches in on-the-ground, applied conservation planning approaches, I wish to continue navigating the science-policy interface, particularly in relation to the Biodiversity Beyond National Jurisdiction (BBNJ) Agreement. I love trying out so many different new hobbies, but only sticks to a couple, like reading sci-fi and fantasy books, watching basketball, playing video games."
+  },
+  {
+    "objectID": "00_about.html#yi-fei-chung",
+    "href": "00_about.html#yi-fei-chung",
+    "title": "Who are we?",
+    "section": "Yi Fei Chung",
+    "text": "Yi Fei Chung\n\n\n\n \n\nFei is a PhD candidate in the School of the Environment at The University of Queensland. His research focuses on policy settings that can enhance climate adaptation while also developing methods to account for the effects of climate extremes in these policies. He primarily uses programming for applications ranging from simulating species persistence across landscapes to modelling alternative policy scenarios."
+  },
+  {
+    "objectID": "00_about.html#rosa-mar-dominguez-martinez",
+    "href": "00_about.html#rosa-mar-dominguez-martinez",
+    "title": "Who are we?",
+    "section": "Rosa Mar Dominguez-Martinez",
+    "text": "Rosa Mar Dominguez-Martinez\n\n\n\n \n\nI’m a PhD candidate at the University of Queensland who somehow went from growing up in the Spanish mountains to becoming completely obsessed with the ocean (turns out, following the sun was a good life strategy). Now I spend my days wrestling with massive datasets in R, creating visualizations that hopefully make sense, and investigating how international seafood trade impacts marine life. My PhD focuses on the sustainability of global seafood supply chains, particularly the trade of threatened species as seafood. When I’m not coding or untangling the complexities of fish economics, I’m dreaming up novel ways to make our seafood consumption more sustainable."
+  },
+  {
+    "objectID": "03_past_meetups.html",
+    "href": "03_past_meetups.html",
+    "title": "Past Meet-ups",
+    "section": "",
+    "text": "CBCS Coding Club meet-ups are led by different folks of different coding backgrounds and career levels. Topics are broad and encompass different programming languages (R, python), coding skills (spatial data analysis and visualization, data wrangling, writing shiny apps), and coding tools (VS Code, HPC).\nIf you’re interested in leading a meet-up, feel free to contact any of the current Coding Club co-leads!\n\n2025 meet-ups\n\n\nIntroduction to terra Led by Jason Flower\n\n\nIntroduction to Shiny Led by Sandra Neubert\n\n\n\n\n\nIntroduction to Python Led by Megan Jeffers\n\n\nCausal Modelling Led by Kevin Bairos-Novak"
+  },
+  {
+    "objectID": "03_past_meetups.html#causal-modelling-kevin-bairos-novak",
+    "href": "03_past_meetups.html#causal-modelling-kevin-bairos-novak",
+    "title": "Past Meet-ups",
+    "section": "Causal Modelling (Kevin Bairos-Novak)",
+    "text": "Causal Modelling (Kevin Bairos-Novak)"
+  },
+  {
+    "objectID": "01_rules.html",
+    "href": "01_rules.html",
+    "title": "Rule 1",
+    "section": "",
+    "text": "Joining Coding Club is easy, but our members also follow some simple (and straightforward) rules:\n\nRule 1\nBe nice. Be respectful. Be inclusive. 👥\n\n\nRule 2\nWe’ll all learn from each other. It’s a give and take. 🤝\n\n\nRule 3\nWe are not required to host workshops. There are better resources for these, and we would gladly point you to these resources if needed. 📔\nCoding club is just as good as its members. So if you like what Coding Club is doing, support the club by participating in meet-ups and events and being more active."
+  },
+  {
+    "objectID": "02_resources.html",
+    "href": "02_resources.html",
+    "title": "Coding Resources",
+    "section": "",
+    "text": "Part of the CBCS Coding Club’s initiative is to compile a list of different coding resources that could support environmental and conservation research. This compilation is ‘alive’, and so if there are any resources that you think are missing from the list below (we know that we are missing lots!), please do contact any of the current coding club leads and we can add them.\n\nDatabases\nConservation and environmental researchers often use the same open-access data. Here are some of the databases that are often used in these research fields, some of which can be accessed directly through programming packages.\n\n\n\nIUCN Red List\nThere are lots of different R packages that can be used to access the IUCN Red List’s data repository.\n\niucnredList\nrredlist\niucnr\nred\n\n\n\nWorld Database on Protected Areas (WDPA)\n\nwdpar\n\n\n\n\n\n\nAustralia’s Terrestrial Ecosystem Network (TERN)\nExplore TERN’s data portals and services.\n\nausplotsR\n\n\n\n\n\n\n\nPackages\nThese are some of the most common packages used in a lot of analysis in conservation and environmental research.\n\n\nOnline books\nIf you’re the type to learn more by reading textbooks, here are some great online textbooks that you can read.\n\n\nWebsites and online resource hubs\nThere are thousands of different packages in different programming languages, and sometimes, the package just doesn’t have great documentation. Fear not! There are some websites and online resource hubs that dive deep into some of these packages and their different functions."
   }
 ]

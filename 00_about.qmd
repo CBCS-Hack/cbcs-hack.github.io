@@ -10,37 +10,48 @@ The CBCS Coding Club comprises a group of students and early career researchers 
 ::: {.column width="40%" align="center"}
 <img src="images/Tin_Buenafe_cropped.jpg" style="width: 90%; object-fit: contain"/>
 
-<a href="https://snbuenafe.github.io" target="_blank" class="icons">{{< iconify streamline:web >}}</a>
-<a href="https://scholar.google.com/citations?user=jEIS64UAAAAJ&hl=en&oi=ao" target="_blank" class="icons">{{< iconify academicons:google-scholar >}}</a>
+<a href="https://snbuenafe.github.io" target="_blank" class="icons">{{< iconify streamline:web >}}</a> 
+<a href="https://scholar.google.com/citations?user=jEIS64UAAAAJ&hl=en&oi=ao" target="_blank" class="icons">{{< iconify academicons:google-scholar >}}</a> 
+<a href="www.linkedin.com/in/tin-buenafe" target="_blank" class="icons">{{< iconify mdi:linkedin >}}</a>
 :::
 
 ::: {.column width="60%"}
-[Tin](https://snbuenafe.github.io/) is a PhD candidate from the Philippines working on climate-smart marine conservation planning with a particular focus in the high seas. While she enjoys coding all-day, working to develop reproducible tools and frameworks used to facilitate the uptake of climate-smart approaches in on-the-ground, applied conservation planning approaches, she wishes to continue navigating the science-policy interface, particularly in relation to the Biodiversity Beyond National Jurisdiction (BBNJ) Agreement.
+I am a PhD candidate from the Philippines working on climate-smart marine conservation planning with a particular focus in the high seas. While I enjoy coding all-day, working to develop reproducible tools and frameworks used to facilitate the uptake of climate-smart approaches in on-the-ground, applied conservation planning approaches, I wish to continue navigating the science-policy interface, particularly in relation to the Biodiversity Beyond National Jurisdiction (BBNJ) Agreement. I love trying out so many different new hobbies, but only sticks to a couple, like reading sci-fi and fantasy books, watching basketball, playing video games.
 
-{{< iconify skill-icons:r-dark size=50px >}}  
+{{< iconify skill-icons:r-dark size=50px >}}  {{< iconify skill-icons:powershell-dark size=50px >}} {{< iconify carbon:ibm-cloud-hpc size=50px >}}  
 :::
 :::::
 
-<!-- ## Yi Fei Chung -->
+## Yi Fei Chung
 
-<!-- ::::: columns -->
-<!-- ::: {.column width="40%" align="center"} -->
+::::: columns
+::: {.column width="40%" align="center"}
+<img src="images/Fei_Chung_cropped.jpg" style="width: 90%; object-fit: contain"/>
 
-<!-- ::: -->
+<a href="https://scholar.google.com/citations?hl=en&user=DRhjtzwAAAAJ" target="_blank" class="icons">{{< iconify academicons:google-scholar >}}</a> 
+<a href="https://www.linkedin.com/in/chungyifei/" target="_blank" class="icons">{{< iconify mdi:linkedin >}}</a>
+:::
 
-<!-- ::: {.column width="60%"} -->
+::: {.column width="60%"}
+Fei is a PhD candidate in the School of the Environment at The University of Queensland. His research focuses on policy settings that can enhance climate adaptation while also developing methods to account for the effects of climate extremes in these policies. He primarily uses programming for applications ranging from simulating species persistence across landscapes to modelling alternative policy scenarios.
 
-<!-- ::: -->
-<!-- ::::: -->
+{{< iconify skill-icons:r-dark size=50px >}}  {{< iconify skill-icons:powershell-dark size=50px >}} {{< iconify carbon:ibm-cloud-hpc size=50px >}}
+:::
+:::::
 
-<!-- ## Rosa Mar Dominguez-Martinez -->
+## Rosa Mar Dominguez-Martinez
 
-<!-- ::::: columns -->
-<!-- ::: {.column width="40%" align="center"} -->
+::::: columns
+::: {.column width="40%" align="center"}
+<img src="images/Rosa_Dominguez_Martinez_cropped.jpg" style="width: 90%; object-fit: contain"/>
 
-<!-- ::: -->
+<a href="https://scholar.google.com/citations?hl=en&user=mUWn6W0AAAAJ" target="_blank" class="icons">{{< iconify academicons:google-scholar >}}</a> 
+<a href="https://www.linkedin.com/in/rosa-mar-dominguez-martinez-427a5014a/" target="_blank" class="icons">{{< iconify mdi:linkedin >}}</a>
+:::
 
-<!-- ::: {.column width="60%"} -->
+::: {.column width="60%"}
+I'm a PhD candidate at the University of Queensland who somehow went from growing up in the Spanish mountains to becoming completely obsessed with the ocean (turns out, following the sun was a good life strategy). Now I spend my days wrestling with massive datasets in R, creating visualizations that hopefully make sense, and investigating how international seafood trade impacts marine life. My PhD focuses on the sustainability of global seafood supply chains, particularly the trade of threatened species as seafood. When I'm not coding or untangling the complexities of fish economics, I'm dreaming up novel ways to make our seafood consumption more sustainable.
 
-<!-- ::: -->
-<!-- ::::: -->
+{{< iconify skill-icons:r-dark size=50px >}} 
+:::
+:::::

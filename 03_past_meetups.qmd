@@ -1,0 +1,39 @@
+---
+title: "Past Meet-ups"
+---
+
+CBCS Coding Club meet-ups are led by different folks of different coding backgrounds and career levels. Topics are broad and encompass different programming languages (R, python), coding skills (spatial data analysis and visualization, data wrangling, writing shiny apps), and coding tools (VS Code, HPC). 
+
+If you're interested in leading a meet-up, feel free to contact any of the current Coding Club co-leads!
+
+# 2025 meet-ups
+
+::::: columns
+::: {.column width="50%" align="center"}
+**Introduction to terra**
+Led by Jason Flower
+
+{{< video https://www.youtube.com/watch?v=PFTUTgSQEOw >}}
+:::
+::: {.column width="50%" align="center"}
+**Introduction to Shiny**
+Led by Sandra Neubert
+
+{{< video https://youtu.be/o0ASQrJv-Zs >}}
+:::
+:::::
+
+::::: columns
+::: {.column width="50%" align="center"}
+**Introduction to Python**
+Led by Megan Jeffers
+
+{{< video https://youtu.be/DWT-LJK1qgg >}}
+:::
+::: {.column width="50%" align="center"}
+**Causal Modelling**
+Led by Kevin Bairos-Novak
+
+{{< video https://www.youtube.com/watch?v=lRsCMf9STbA >}}
+:::
+:::::
