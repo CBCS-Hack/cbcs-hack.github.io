@@ -10,7 +10,7 @@ Conservation and environmental researchers often use the same open-access data. 
 
 ::::: columns
 
-::: {.column width="50%" align="center"}
+::: {.column width="45%" align="center"}
 <img src="images/resources/IUCN_Red_List.png" style="width: 50%; object-fit: contain"/>
 
 [**IUCN Red List**](https://www.iucnredlist.org/)
@@ -24,7 +24,10 @@ There are lots of different R packages that can be used to access the [IUCN Red 
 
 :::
 
-::: {.column width="50%" align="center"}
+::: {.column width="10%" align="center"}
+:::
+
+::: {.column width="45%" align="center"}
 <img src="images/resources/wdpa.jpg" style="width: 50%; object-fit: contain"/>
 
 [**World Database on Protected Areas (WDPA)**](https://www.protectedplanet.net/en/thematic-areas/wdpa?tab=WDPA)
@@ -35,7 +38,7 @@ There are lots of different R packages that can be used to access the [IUCN Red 
 :::::
 
 ::::: columns
-::: {.column width="50%" align="center"}
+::: {.column width="45%" align="center"}
 
 <img src="images/resources/tern.png" style="width: 80%; object-fit: contain"/>
 
@@ -47,18 +50,24 @@ Explore TERN's [data portals and services](https://www.tern.org.au/environmental
 * [`WildObsR`](https://wildobs.org.au/)
 
 :::
-::: {.column width="50%" align="center"}
+
+::: {.column width="10%" align="center"}
+:::
+
+::: {.column width="45%" align="center"}
 <img src="images/resources/marineregions.png" style="width: 80%; object-fit: contain"/>
 
 [**Marine Regions**](https://www.marineregions.org/) of the world
 
 Get the the boundaries and shapefiles you need for exclusive economic zones (EEZ), areas beyond national jurisdiction, global oceans and seas, large marine ecosystems of the world (MEOW), Longhurst provinces, and many more!
+
+* [`mregions2`](https://github.com/ropensci/mregions2)
 :::
 
 :::::
 
 ::::: columns
-::: {.column width="50%" align="center"}
+::: {.column width="45%" align="center"}
 
 <img src="images/resources/cmip.png" style="width: 50%; object-fit: contain"/>
 
@@ -76,7 +85,11 @@ Here are some R packages that could help wrangle climate outputs.
 * [`rcdo`](https://cran.r-project.org/web/packages/rcdo/index.html)
 
 :::
-::: {.column width="50%" align="center"}
+
+::: {.column width="10%" align="center"}
+:::
+
+::: {.column width="45%" align="center"}
 <img src="images/resources/fisheries.jpeg" style="width: 70%; object-fit: contain"/>
 
 A collection of different fisheries-related products
