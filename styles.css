@@ -32,6 +32,10 @@ h3 {
   font-size: 1.1em;
 }
 
+.navbar {
+  background-color: #267FA3;
+}
+
 .blockquote {
   background-color:  #b2dcea;
 }

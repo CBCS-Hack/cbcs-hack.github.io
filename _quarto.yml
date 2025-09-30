@@ -5,7 +5,7 @@ project:
 website:
   title: "CBCS Coding Club"
   navbar:
-    background: dark
+    background: primary
     type: dark
     left:
       - href: index.qmd

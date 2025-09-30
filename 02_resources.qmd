@@ -77,7 +77,7 @@ Here are some R packages that could help wrangle climate outputs.
 
 :::
 ::: {.column width="50%" align="center"}
-<img src="images/resources/fisheries.jpeg" style="width: 60%; object-fit: contain"/>
+<img src="images/resources/fisheries.jpeg" style="width: 70%; object-fit: contain"/>
 
 A collection of different fisheries-related products
 
