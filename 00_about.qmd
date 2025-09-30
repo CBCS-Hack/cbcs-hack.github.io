@@ -12,7 +12,7 @@ The CBCS Coding Club comprises a group of students and early career researchers 
 
 <a href="https://snbuenafe.github.io" target="_blank" class="icons">{{< iconify streamline:web >}}</a> 
 <a href="https://scholar.google.com/citations?user=jEIS64UAAAAJ&hl=en&oi=ao" target="_blank" class="icons">{{< iconify academicons:google-scholar >}}</a> 
-<a href="www.linkedin.com/in/tin-buenafe" target="_blank" class="icons">{{< iconify mdi:linkedin >}}</a>
+<a href="www.linkedin.com/in/tin-buenafe" target="_blank" class="icons">{{< iconify mdi:linkedin >}}</a> <a href="mailto:k.buenafe@uq.edu.au" target="_blank" class="icons">{{< iconify mdi-light:email >}}</a> 
 :::
 
 ::: {.column width="60%"}
@@ -30,6 +30,7 @@ I am a PhD candidate from the Philippines working on climate-smart marine conser
 
 <a href="https://scholar.google.com/citations?hl=en&user=DRhjtzwAAAAJ" target="_blank" class="icons">{{< iconify academicons:google-scholar >}}</a> 
 <a href="https://www.linkedin.com/in/chungyifei/" target="_blank" class="icons">{{< iconify mdi:linkedin >}}</a>
+<a href="mailto:yifei.chung@uq.edu.au" target="_blank" class="icons">{{< iconify mdi-light:email >}}</a> 
 :::
 
 ::: {.column width="60%"}
@@ -46,7 +47,7 @@ Fei is a PhD candidate in the School of the Environment at The University of Que
 <img src="images/Rosa_Dominguez_Martinez_cropped.jpg" style="width: 90%; object-fit: contain"/>
 
 <a href="https://scholar.google.com/citations?hl=en&user=mUWn6W0AAAAJ" target="_blank" class="icons">{{< iconify academicons:google-scholar >}}</a> 
-<a href="https://www.linkedin.com/in/rosa-mar-dominguez-martinez-427a5014a/" target="_blank" class="icons">{{< iconify mdi:linkedin >}}</a>
+<a href="https://www.linkedin.com/in/rosa-mar-dominguez-martinez-427a5014a/" target="_blank" class="icons">{{< iconify mdi:linkedin >}}</a> <a href="mailto:r.dominguezmartinez@uq.edu.au" target="_blank" class="icons">{{< iconify mdi-light:email >}}</a> 
 :::
 
 ::: {.column width="60%"}

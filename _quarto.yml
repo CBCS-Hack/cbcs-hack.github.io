@@ -19,7 +19,7 @@ website:
       - href: 03_past_meetups.qmd
         text: "Meetups"
       - href: 04_contact.qmd
-        text: "Contact Us"
+        text: "Join Us"
         
   page-footer:
     center: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
