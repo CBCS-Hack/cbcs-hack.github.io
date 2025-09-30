@@ -16,7 +16,7 @@ The CBCS Coding Club comprises a group of students and early career researchers 
 :::
 
 ::: {.column width="60%"}
-I am a PhD candidate from the Philippines working on climate-smart marine conservation planning with a particular focus in the high seas. While I enjoy coding all-day, working to develop reproducible tools and frameworks used to facilitate the uptake of climate-smart approaches in on-the-ground, applied conservation planning approaches, I wish to continue navigating the science-policy interface, particularly in relation to the Biodiversity Beyond National Jurisdiction (BBNJ) Agreement. I love trying out so many different new hobbies, but only sticks to a couple, like reading sci-fi and fantasy books, watching basketball, playing video games.
+I am a PhD candidate from the Philippines working on climate-smart marine conservation planning with a particular focus in the high seas. While I enjoy coding all-day, working to develop reproducible tools and frameworks used to facilitate the uptake of climate-smart approaches in on-the-ground, applied conservation planning approaches, I wish to continue navigating the science-policy interface, particularly in relation to the Biodiversity Beyond National Jurisdiction (BBNJ) Agreement. I love trying out so many different new hobbies, but only stick to a couple, like reading sci-fi and fantasy books, watching basketball, playing video games.
 
 {{< iconify skill-icons:r-dark size=50px >}}  {{< iconify skill-icons:powershell-dark size=50px >}} {{< iconify carbon:ibm-cloud-hpc size=50px >}}  
 :::
