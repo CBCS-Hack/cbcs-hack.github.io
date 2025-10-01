@@ -18,7 +18,7 @@ The CBCS Coding Club comprises a group of students and early career researchers 
 ::: {.column width="60%"}
 I am a PhD candidate from the Philippines working on climate-smart marine conservation planning with a particular focus in the high seas. While I enjoy coding all-day, working to develop reproducible tools and frameworks used to facilitate the uptake of climate-smart approaches in on-the-ground, applied conservation planning approaches, I wish to continue navigating the science-policy interface, particularly in relation to the Biodiversity Beyond National Jurisdiction (BBNJ) Agreement. I love trying out so many different new hobbies, but only stick to a couple, like reading sci-fi and fantasy books, watching basketball, playing video games.
 
-{{< iconify skill-icons:r-dark size=50px >}}  {{< iconify skill-icons:powershell-dark size=50px >}} {{< iconify carbon:ibm-cloud-hpc size=50px >}}  
+{{< iconify catppuccin:r size=50px >}}  {{< iconify catppuccin:powershell size=50px >}} {{< iconify catppuccin:database size=50px >}}  
 :::
 :::::
 
@@ -36,7 +36,7 @@ I am a PhD candidate from the Philippines working on climate-smart marine conser
 ::: {.column width="60%"}
 Fei is a PhD candidate in the School of the Environment at The University of Queensland. His research focuses on policy settings that can enhance climate adaptation while also developing methods to account for the effects of climate extremes in these policies. He primarily uses programming for applications ranging from simulating species persistence across landscapes to modelling alternative policy scenarios.
 
-{{< iconify skill-icons:r-dark size=50px >}}  {{< iconify skill-icons:powershell-dark size=50px >}} {{< iconify carbon:ibm-cloud-hpc size=50px >}}
+{{< iconify catppuccin:r size=50px >}}  {{< iconify catppuccin:powershell size=50px >}} {{< iconify catppuccin:database size=50px >}}  
 :::
 :::::
 
@@ -53,6 +53,6 @@ Fei is a PhD candidate in the School of the Environment at The University of Que
 ::: {.column width="60%"}
 I'm a PhD candidate at the University of Queensland who somehow went from growing up in the Spanish mountains to becoming completely obsessed with the ocean (turns out, following the sun was a good life strategy). Now I spend my days wrestling with massive datasets in R, creating visualizations that hopefully make sense, and investigating how international seafood trade impacts marine life. My PhD focuses on the sustainability of global seafood supply chains, particularly the trade of threatened species as seafood. When I'm not coding or untangling the complexities of fish economics, I'm dreaming up novel ways to make our seafood consumption more sustainable.
 
-{{< iconify skill-icons:r-dark size=50px >}} 
+{{< iconify catppuccin:r size=50px >}}  {{< iconify catppuccin:powershell size=50px >}} {{< iconify catppuccin:database size=50px >}}  
 :::
 :::::

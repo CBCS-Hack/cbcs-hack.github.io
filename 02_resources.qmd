@@ -47,7 +47,7 @@ There are lots of different R packages that can be used to access the [IUCN Red 
 Explore TERN's [data portals and services](https://www.tern.org.au/environmental-data-service/).
 
 * [`ausplotsR`](https://github.com/ternaustralia/ausplotsR)
-* [`WildObsR`](https://wildobs.org.au/)
+* [`WildObsR`](https://wildobs.org.au/): not yet publicly available, but stay tuned!
 
 :::
 
@@ -125,3 +125,10 @@ There are thousands of different packages in different programming languages, an
 
 * [R Graph Gallery](https://r-graph-gallery.com/)
   * [R Graph Gallery Book](https://bookdown.org/content/b298e479-b1ab-49fa-b83d-a57c2b034d49/)
+* [Posit Cheatsheets](https://posit.co/resources/cheatsheets/)
+  * [`tidyr` Cheatsheet](https://rstudio.github.io/cheatsheets/html/tidyr.html)
+  * [`dplyr` Cheatsheet](https://rstudio.github.io/cheatsheets/html/data-transformation.html)
+  * [`ggplot2` Cheatsheet](https://rstudio.github.io/cheatsheets/html/data-visualization.html)
+  * [`stringr` Cheatsheet](https://rstudio.github.io/cheatsheets/html/strings.html)
+  * [`purrr` Cheatsheet](https://rstudio.github.io/cheatsheets/html/purrr.html)
+  * [Quarto Cheatsheet](https://rstudio.github.io/cheatsheets/html/quarto.html)
