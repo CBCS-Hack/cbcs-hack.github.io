@@ -17,8 +17,8 @@ CBCS Coding Club is a student-led group that aims to provide a common space for 
 
 :bulb: Are you interested in learning more about coding?
 
-:thinking: Do you want to improve your coding skills but don't know where to start? 
+:thinking: Do you want to improve your coding skills but don't know where to start?
 
-:fire: Do you feel the burning urge to geek out about your favorite package or function? 
+:fire: Do you feel the burning urge to geek out about your favorite package or function?
 
 If your answer is yes to any of those questions, then [Join Coding Club](04_contact.qmd){.btn .btn-primary}!

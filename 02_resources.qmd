@@ -8,8 +8,7 @@ Part of the CBCS Coding Club's initiative is to compile a list of different codi
 
 Conservation and environmental researchers often use the same open-access data. Here are some of the databases that are often used in these research fields, some of which can be accessed directly through programming packages.
 
-::::: columns
-
+:::::: columns
 ::: {.column width="45%" align="center"}
 <img src="images/resources/IUCN_Red_List.png" style="width: 50%; object-fit: contain"/>
 
@@ -17,11 +16,10 @@ Conservation and environmental researchers often use the same open-access data. 
 
 There are lots of different R packages that can be used to access the [IUCN Red List's data repository](https://www.iucnredlist.org/resources/data-repository).
 
-* [`iucnredList`](https://iucn-uk.github.io/iucnredlist/)
-* [`rredlist`](https://cran.r-project.org/web/packages/rredlist/vignettes/rredlist.html)
-* [`iucnr`](https://cran.r-project.org/web/packages/iucnr/index.html)
-* [`red`](https://bdj.pensoft.net/article/20530/)
-
+-   [`iucnredList`](https://iucn-uk.github.io/iucnredlist/)
+-   [`rredlist`](https://cran.r-project.org/web/packages/rredlist/vignettes/rredlist.html)
+-   [`iucnr`](https://cran.r-project.org/web/packages/iucnr/index.html)
+-   [`red`](https://bdj.pensoft.net/article/20530/)
 :::
 
 ::: {.column width="10%" align="center"}
@@ -32,23 +30,20 @@ There are lots of different R packages that can be used to access the [IUCN Red 
 
 [**World Database on Protected Areas (WDPA)**](https://www.protectedplanet.net/en/thematic-areas/wdpa?tab=WDPA)
 
-* [`wdpar`](https://cran.r-project.org/web/packages/wdpar/vignettes/wdpar.html)
-
+-   [`wdpar`](https://cran.r-project.org/web/packages/wdpar/vignettes/wdpar.html)
 :::
-:::::
+::::::
 
-::::: columns
+:::::: columns
 ::: {.column width="45%" align="center"}
-
 <img src="images/resources/tern.png" style="width: 80%; object-fit: contain"/>
 
 [**Australia's Terrestrial Ecosystem Network (TERN)**](https://www.tern.org.au/)
 
 Explore TERN's [data portals and services](https://www.tern.org.au/environmental-data-service/).
 
-* [`ausplotsR`](https://github.com/ternaustralia/ausplotsR)
-* [`WildObsR`](https://wildobs.org.au/): not yet publicly available, but stay tuned!
-
+-   [`ausplotsR`](https://github.com/ternaustralia/ausplotsR)
+-   [`WildObsR`](https://wildobs.org.au/): not yet publicly available, but stay tuned!
 :::
 
 ::: {.column width="10%" align="center"}
@@ -61,29 +56,26 @@ Explore TERN's [data portals and services](https://www.tern.org.au/environmental
 
 Get the the boundaries and shapefiles you need for exclusive economic zones (EEZ), areas beyond national jurisdiction, global oceans and seas, large marine ecosystems of the world (MEOW), Longhurst provinces, and many more!
 
-* [`mregions2`](https://github.com/ropensci/mregions2)
+-   [`mregions2`](https://github.com/ropensci/mregions2)
 :::
+::::::
 
-:::::
-
-::::: columns
+:::::: columns
 ::: {.column width="45%" align="center"}
-
 <img src="images/resources/cmip.png" style="width: 50%; object-fit: contain"/>
 
 A collection of different climate data products from the [**Coupled Model Intercomparison Project 6 (CMIP6)**](https://wcrp-cmip.org/cmip-phases/cmip6/)
 
-* [Earth System Grid Federation](https://esgf.github.io/): global (raw)
-* [WorldClim](https://www.worldclim.org/): global (processed)
-* [BioORACLE](https://www.bio-oracle.org/) through [`biooracler`](https://github.com/bio-oracle/biooracler) in R [`pyo_oracle`](https://github.com/bio-oracle/pyo_oracle) in Python and : global, marine (processed)
-* [NARCliM](https://www.climatechange.environment.nsw.gov.au/climate-data-portal): high-resolution climate model data for New South Wales and Australia
-* [LongPaddock](https://www.longpaddock.qld.gov.au/qld-future-climate/): regional, high-resolution climate model data for Queensland
+-   [Earth System Grid Federation](https://esgf.github.io/): global (raw)
+-   [WorldClim](https://www.worldclim.org/): global (processed)
+-   [BioORACLE](https://www.bio-oracle.org/) through [`biooracler`](https://github.com/bio-oracle/biooracler) in R [`pyo_oracle`](https://github.com/bio-oracle/pyo_oracle) in Python and : global, marine (processed)
+-   [NARCliM](https://www.climatechange.environment.nsw.gov.au/climate-data-portal): high-resolution climate model data for New South Wales and Australia
+-   [LongPaddock](https://www.longpaddock.qld.gov.au/qld-future-climate/): regional, high-resolution climate model data for Queensland
 
 Here are some R packages that could help wrangle climate outputs.
 
-* [`hotrstuff`](https://snbuenafe.github.io/hotrstuff/): R package in development led by Tin Buenafe
-* [`rcdo`](https://cran.r-project.org/web/packages/rcdo/index.html)
-
+-   [`hotrstuff`](https://snbuenafe.github.io/hotrstuff/): R package in development led by Tin Buenafe
+-   [`rcdo`](https://cran.r-project.org/web/packages/rcdo/index.html)
 :::
 
 ::: {.column width="10%" align="center"}
@@ -94,41 +86,60 @@ Here are some R packages that could help wrangle climate outputs.
 
 A collection of different fisheries-related products
 
-* [Global Fishing Watch](https://globalfishingwatch.org/)
-  * [`gfwr`](https://github.com/GlobalFishingWatch/gfwr) is an R package for accessing the GFW data through an API (application programming interface) key
-* [`FishStatJ`](ttps://www.fao.org/fishery/en/statistics/software/fishstatj) to access FAO (Food and Agriculture Organization of the United Nations)'s Fisheries and Aquaculture statistics
-* [`ARTIS`](https://artisdata.weebly.com/) is a database that provides the first global estimates of seafood species and nutrient trade flows
+-   [Global Fishing Watch](https://globalfishingwatch.org/)
+    -   [`gfwr`](https://github.com/GlobalFishingWatch/gfwr) is an R package for accessing the GFW data through an API (application programming interface) key
+-   [`FishStatJ`](ttps://www.fao.org/fishery/en/statistics/software/fishstatj) to access FAO (Food and Agriculture Organization of the United Nations)'s Fisheries and Aquaculture statistics
+-   [`ARTIS`](https://artisdata.weebly.com/) is a database that provides the first global estimates of seafood species and nutrient trade flows
 :::
-:::::
+::::::
 
 # Packages
 
 These are some of the most common packages used in a lot of analysis in conservation and environmental research.
 
-* [`rnaturalearth`](https://cran.r-project.org/web/packages/rnaturalearth/vignettes/rnaturalearth.html) to access natural earth vector map data (e.g., administrative boundaries and borders of countries, coastlines). Some key functions include:
-  * `ne_countries()`
-  * `ne_download()`
-* [`countrycode`](https://cran.r-project.org/web/packages/countrycode/index.html) for standardizing country names
-* [`janitor`](https://cran.r-project.org/web/packages/janitor/index.html) for cleaning up messy data
+-   [`rnaturalearth`](https://cran.r-project.org/web/packages/rnaturalearth/vignettes/rnaturalearth.html) to access natural earth vector map data (e.g., administrative boundaries and borders of countries, coastlines). Some key functions include:
+    -   `ne_countries()`
+    -   `ne_download()`
+-   [`countrycode`](https://cran.r-project.org/web/packages/countrycode/index.html) for standardizing country names
+
+In terms of analysis, here are some R packages that are useful for data wrangling, analysis and visualization.
+
+## Data wrangling and analysis
+-   [`janitor`](https://cran.r-project.org/web/packages/janitor/index.html) for cleaning up messy data
+-   [`here`](https://here.r-lib.org/) for setting working directories
+-   [`purrr`](https://purrr.tidyverse.org/) for functional programming in loops made easy!
+-   [`furrr`](https://furrr.futureverse.org/) combining `purrr` with `future`'s parallel capabilities
+
+## Spatial wrangling and analysis
+-   [`terra`](https://rspatial.github.io/terra/) for wrangling and analyzing raster (and vector!) data
+-   [`sf`](https://r-spatial.github.io/sf/) for wrangling and analyzing vector data
+
+## Visualization
+-   [`ggplot2`](https://ggplot2.tidyverse.org/) for all-around visualizations, and great for visualizing `sf` objects using primarily `geom_sf()`
+-   [`tmap`](https://r-graph-gallery.com/package/tmap.html) for thematic mapping
+-   [`leaflet`](https://r-graph-gallery.com/package/leaflet.html) for creating interactive maps
+-   [`tidyterra`](https://dieghernan.github.io/tidyterra/) for visualizing `terra` objects using `ggplot2`
+-   [`patchwork`](https://patchwork.data-imaginist.com/) for stitching together different plots
 
 # Online books
 
 If you're the type to learn more by reading textbooks, here are some great online textbooks that you can read.
 
-* [R for Data Science (2e)](https://r4ds.hadley.nz/)
-* [Advance R](https://adv-r.hadley.nz/)
-* [Mastering Shiny](https://mastering-shiny.org/)
+-   [R for Data Science (2e)](https://r4ds.hadley.nz/)
+-   [Advance R](https://adv-r.hadley.nz/)
+-   [Mastering Shiny](https://mastering-shiny.org/)
 
 # Websites and online resource hubs
 
 There are thousands of different packages in different programming languages, and sometimes, the package just doesn't have great documentation. Fear not! There are some websites and online resource hubs that dive deep into some of these packages and their different functions.
 
-* [R Graph Gallery](https://r-graph-gallery.com/)
-  * [R Graph Gallery Book](https://bookdown.org/content/b298e479-b1ab-49fa-b83d-a57c2b034d49/)
-* [Posit Cheatsheets](https://posit.co/resources/cheatsheets/)
-  * [`tidyr` Cheatsheet](https://rstudio.github.io/cheatsheets/html/tidyr.html)
-  * [`dplyr` Cheatsheet](https://rstudio.github.io/cheatsheets/html/data-transformation.html)
-  * [`ggplot2` Cheatsheet](https://rstudio.github.io/cheatsheets/html/data-visualization.html)
-  * [`stringr` Cheatsheet](https://rstudio.github.io/cheatsheets/html/strings.html)
-  * [`purrr` Cheatsheet](https://rstudio.github.io/cheatsheets/html/purrr.html)
-  * [Quarto Cheatsheet](https://rstudio.github.io/cheatsheets/html/quarto.html)
+-   [R Graph Gallery](https://r-graph-gallery.com/)
+    -   [R Graph Gallery Book](https://bookdown.org/content/b298e479-b1ab-49fa-b83d-a57c2b034d49/)
+-   [Posit Cheatsheets](https://posit.co/resources/cheatsheets/)
+    -   [`tidyr` Cheatsheet](https://rstudio.github.io/cheatsheets/html/tidyr.html)
+    -   [`dplyr` Cheatsheet](https://rstudio.github.io/cheatsheets/html/data-transformation.html)
+    -   [`ggplot2` Cheatsheet](https://rstudio.github.io/cheatsheets/html/data-visualization.html)
+    -   [`stringr` Cheatsheet](https://rstudio.github.io/cheatsheets/html/strings.html)
+    -   [`purrr` Cheatsheet](https://rstudio.github.io/cheatsheets/html/purrr.html)
+    -   [Quarto Cheatsheet](https://rstudio.github.io/cheatsheets/html/quarto.html)
+    -   [`arrow` for R](https://rstudio.github.io/cheatsheets/arrow.pdf)

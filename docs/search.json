@@ -39,7 +39,7 @@
     "href": "00_about.html#kristine-tin-buenafe",
     "title": "Who are we?",
     "section": "Kristine (Tin) Buenafe",
-    "text": "Kristine (Tin) Buenafe\n\n\n\n   \n\nI am a PhD candidate from the Philippines working on climate-smart marine conservation planning with a particular focus in the high seas. While I enjoy coding all-day, working to develop reproducible tools and frameworks used to facilitate the uptake of climate-smart approaches in on-the-ground, applied conservation planning approaches, I wish to continue navigating the science-policy interface, particularly in relation to the Biodiversity Beyond National Jurisdiction (BBNJ) Agreement. I love trying out so many different new hobbies, but only stick to a couple, like reading sci-fi and fantasy books, watching basketball, playing video games."
+    "text": "Kristine (Tin) Buenafe\n\n\n\n   \n\nI am a PhD candidate from the Philippines working on climate-smart marine conservation planning with a particular focus in the high seas. I thoroughly enjoy coding all-day [(in the dark) with my feet up blasting Someone Like You by Adele in my headphones], working on developing reproducible tools and frameworks used to facilitate the uptake of climate-smart approaches in on-the-ground, applied conservation planning approaches. When I’m not knee-deep in coding, I am navigating the science-policy interface, particularly in relation to the Biodiversity Beyond National Jurisdiction (BBNJ) Agreement, by engaging with key players and stakeholders in the process."
   },
   {
     "objectID": "00_about.html#yi-fei-chung",
@@ -60,7 +60,7 @@
     "href": "03_past_meetups.html",
     "title": "Past Meet-ups",
     "section": "",
-    "text": "CBCS Coding Club meet-ups are led by different folks of different coding backgrounds and career levels. Topics are broad and encompass different programming languages (R, python), coding skills (spatial data analysis and visualization, data wrangling, writing shiny apps), and coding tools (VS Code, HPC).\nIf you’re interested in leading a meet-up, feel free to contact any of the current Coding Club co-leads!\n\nRecordings of past meet-ups\n\n\nIntroduction to terra Led by Jason Flower\n\n\nIntroduction to Shiny Led by Sandra Neubert\n\n\n\n\n\nIntroduction to Python Led by Megan Jeffers\n\n\nCausal Modelling Led by Kevin Bairos-Novak\n\n\n\n\n\n2025 meet-ups\n\nFrictionless data packages (Zachary Amir)\n\n.zip folder of materials\n\nIntroduciton to terra part 2 (Jason Flower, Yi Fei Chung, Tin Buenafe)\nIntroduction to terra (Jason Flower)\n\nWebsite of the materials\nGitHub repository of the code\n\nIntroduction to shiny (Sandra Neubert)\n\nGitHub repository of the materials\n\nWhy you shoud use Visual Studio Code (VS Code) (‘Chill coding session’ led by Yi Fei Chung and Tin Buenafe)\nIntroduction to Python (Megan Jeffers)\nCausal Modelling (Kevin Bairos-Novak)\n\nGitHub repository of the materials\n\n\n\n\n2024 meet-ups\n\nIntroduction to the High Performance Computing (HPC) facilities (Yi Fei Chung)\nIntroduction to GitHub and why you should start using it (Tin Buenafe)\nBest practices in coding (‘Chill session’ led by Yi Fei Chung, Tin Buenafe, Rosa Mar Dominguez Martinez)\nWelcome! First meeting of the revamped coding club (Yi Fei Chung, Tin Buenafe, Rosa Mar Dominguez Martinez)"
+    "text": "CBCS Coding Club meet-ups are led by different folks of different coding backgrounds and career levels. Topics are broad and encompass different programming languages (R, python), coding skills (spatial data analysis and visualization, data wrangling, writing shiny apps), and coding tools (VS Code, HPC).\nIf you’re interested in leading a meet-up, feel free to contact any of the current Coding Club co-leads!\n\nRecordings of past meet-ups\n\n\nFrictionless Data Packages Led by Zachary Amir\n\n\nIntroduction to terra Led by Jason Flower\n\n\n\n\n\nIntroduction to Shiny Led by Sandra Neubert\n\n\nIntroduction to Python Led by Megan Jeffers\n\n\n\n\n\nCausal Modelling Led by Kevin Bairos-Novak\n\n\n\n\n\n\n\n2025 meet-ups\n\nFrictionless data packages (Zachary Amir)\n\n.zip folder of materials\n\nIntroduciton to terra part 2 (Jason Flower, Yi Fei Chung, Tin Buenafe)\nIntroduction to terra (Jason Flower)\n\nWebsite of the materials\nGitHub repository of the code\n\nIntroduction to shiny (Sandra Neubert)\n\nGitHub repository of the materials\n\nWhy you shoud use Visual Studio Code (VS Code) (‘Chill coding session’ led by Yi Fei Chung and Tin Buenafe)\nIntroduction to Python (Megan Jeffers)\nCausal Modelling (Kevin Bairos-Novak)\n\nGitHub repository of the materials\n\n\n\n\n2024 meet-ups\n\nIntroduction to the High Performance Computing (HPC) facilities (Yi Fei Chung)\nIntroduction to GitHub and why you should start using it (Tin Buenafe)\nBest practices in coding (‘Chill session’ led by Yi Fei Chung, Tin Buenafe, Rosa Mar Dominguez Martinez)\nWelcome! First meeting of the revamped coding club (Yi Fei Chung, Tin Buenafe, Rosa Mar Dominguez Martinez)"
   },
   {
     "objectID": "03_past_meetups.html#causal-modelling-kevin-bairos-novak",
@@ -81,7 +81,7 @@
     "href": "02_resources.html",
     "title": "Coding Resources",
     "section": "",
-    "text": "Part of the CBCS Coding Club’s initiative is to compile a list of different coding resources that could support environmental and conservation research. This compilation is ‘alive’, and so if there are any resources that you think are missing from the list below (we know that we are missing lots!), please do contact any of the current coding club leads and we can add them.\n\nDatabases\nConservation and environmental researchers often use the same open-access data. Here are some of the databases that are often used in these research fields, some of which can be accessed directly through programming packages.\n\n\n\nIUCN Red List\nThere are lots of different R packages that can be used to access the IUCN Red List’s data repository.\n\niucnredList\nrredlist\niucnr\nred\n\n\n\n\n\nWorld Database on Protected Areas (WDPA)\n\nwdpar\n\n\n\n\n\n\nAustralia’s Terrestrial Ecosystem Network (TERN)\nExplore TERN’s data portals and services.\n\nausplotsR\nWildObsR: not yet publicly available, but stay tuned!\n\n\n\n\n\nMarine Regions of the world\nGet the the boundaries and shapefiles you need for exclusive economic zones (EEZ), areas beyond national jurisdiction, global oceans and seas, large marine ecosystems of the world (MEOW), Longhurst provinces, and many more!\n\nmregions2\n\n\n\n\n\n\nA collection of different climate data products from the Coupled Model Intercomparison Project 6 (CMIP6)\n\nEarth System Grid Federation: global (raw)\nWorldClim: global (processed)\nBioORACLE through biooracler in R pyo_oracle in Python and : global, marine (processed)\nNARCliM: high-resolution climate model data for New South Wales and Australia\nLongPaddock: regional, high-resolution climate model data for Queensland\n\nHere are some R packages that could help wrangle climate outputs.\n\nhotrstuff: R package in development led by Tin Buenafe\nrcdo\n\n\n\n\n\nA collection of different fisheries-related products\n\nGlobal Fishing Watch\n\ngfwr is an R package for accessing the GFW data through an API (application programming interface) key\n\nFishStatJ to access FAO (Food and Agriculture Organization of the United Nations)’s Fisheries and Aquaculture statistics\nARTIS is a database that provides the first global estimates of seafood species and nutrient trade flows\n\n\n\n\n\nPackages\nThese are some of the most common packages used in a lot of analysis in conservation and environmental research.\n\nrnaturalearth to access natural earth vector map data (e.g., administrative boundaries and borders of countries, coastlines). Some key functions include:\n\nne_countries()\nne_download()\n\ncountrycode for standardizing country names\njanitor for cleaning up messy data\n\n\n\nOnline books\nIf you’re the type to learn more by reading textbooks, here are some great online textbooks that you can read.\n\nR for Data Science (2e)\nAdvance R\nMastering Shiny\n\n\n\nWebsites and online resource hubs\nThere are thousands of different packages in different programming languages, and sometimes, the package just doesn’t have great documentation. Fear not! There are some websites and online resource hubs that dive deep into some of these packages and their different functions.\n\nR Graph Gallery\n\nR Graph Gallery Book\n\nPosit Cheatsheets\n\ntidyr Cheatsheet\ndplyr Cheatsheet\nggplot2 Cheatsheet\nstringr Cheatsheet\npurrr Cheatsheet\nQuarto Cheatsheet"
+    "text": "Part of the CBCS Coding Club’s initiative is to compile a list of different coding resources that could support environmental and conservation research. This compilation is ‘alive’, and so if there are any resources that you think are missing from the list below (we know that we are missing lots!), please do contact any of the current coding club leads and we can add them."
   },
   {
     "objectID": "04_contact.html",
@@ -89,5 +89,33 @@
     "title": "Join us",
     "section": "",
     "text": "We are an inclusive bunch, so to be part of the growing CBCS Coding Club community, all you need to do is ask and email the Current Co-leads to be added.\nFor any questions regarding the Centre for Biodiversity and Conservation Science, email our Centre Coordinator, Kate Donnelly at cbcs-admin@uq.edu.au."
+  },
+  {
+    "objectID": "00_about.html#caitie-kuempel",
+    "href": "00_about.html#caitie-kuempel",
+    "title": "Who are we?",
+    "section": "Caitie Kuempel",
+    "text": "Caitie Kuempel"
+  },
+  {
+    "objectID": "02_resources.html#data-wrangling-and-analysis",
+    "href": "02_resources.html#data-wrangling-and-analysis",
+    "title": "Coding Resources",
+    "section": "Data wrangling and analysis",
+    "text": "Data wrangling and analysis\n\njanitor for cleaning up messy data\nhere for setting working directories\npurrr for functional programming in loops made easy!\nfurrr combining purrr with future’s parallel capabilities"
+  },
+  {
+    "objectID": "02_resources.html#spatial-wrangling-and-analysis",
+    "href": "02_resources.html#spatial-wrangling-and-analysis",
+    "title": "Coding Resources",
+    "section": "Spatial wrangling and analysis",
+    "text": "Spatial wrangling and analysis\n\nterra for wrangling and analyzing raster (and vector!) data\nsf for wrangling and analyzing vector data"
+  },
+  {
+    "objectID": "02_resources.html#visualization",
+    "href": "02_resources.html#visualization",
+    "title": "Coding Resources",
+    "section": "Visualization",
+    "text": "Visualization\n\nggplot2 for all-around visualizations, and great for visualizing sf objects using primarily geom_sf()\ntmap for thematic mapping\nleaflet for creating interactive maps\ntidyterra for visualizing terra objects using ggplot2\npatchwork for stitching together different plots"
   }
 ]
