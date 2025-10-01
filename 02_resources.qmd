@@ -93,6 +93,20 @@ A collection of different fisheries-related products
 :::
 ::::::
 
+::::: columns
+::: {.column width="45%" align="center"}
+<img src="images/resources/gbif.png" style="width: 70%; object-fit: contain"/>
+
+The [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/)
+
+-   [`galah`](https://galah.ala.org.au/R/) is an R package used to access GBIF and the [Atlas of Living Australia (ALA)](https://www.ala.org.au/)
+:::
+::: {.column width="10%" align="center"}
+:::
+::: {.column width="45%" align="center"}
+:::
+::::: 
+
 # Packages
 
 These are some of the most common packages used in a lot of analysis in conservation and environmental research.
@@ -143,3 +157,5 @@ There are thousands of different packages in different programming languages, an
     -   [`purrr` Cheatsheet](https://rstudio.github.io/cheatsheets/html/purrr.html)
     -   [Quarto Cheatsheet](https://rstudio.github.io/cheatsheets/html/quarto.html)
     -   [`arrow` for R](https://rstudio.github.io/cheatsheets/arrow.pdf)
+-   [Coloring in R's Blind Spot](https://journal.r-project.org/articles/RJ-2023-071/)
+-   [Collection of different color palettes](https://github.com/EmilHvitfeldt/r-color-palettes?tab=readme-ov-file)
