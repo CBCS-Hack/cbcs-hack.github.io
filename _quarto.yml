@@ -20,6 +20,10 @@ website:
         text: "Meetups"
       - href: 04_contact.qmd
         text: "Join Us"
+    right: 
+      - icon: github
+        href: https://github.com/CBCS-Hack
+        aria-label: GitHub
         
   page-footer:
     center: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
