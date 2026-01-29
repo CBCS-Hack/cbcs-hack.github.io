@@ -8,25 +8,11 @@ The CBCS Coding Club comprises a group of students and early career researchers 
 
 ::::: columns
 ::: {.column width="40%" align="center"}
-<a href="https://snbuenafe.github.io" target="_blank" class="icons">{{< iconify streamline:web >}}</a> <a href="https://scholar.google.com/citations?user=jEIS64UAAAAJ&hl=en&oi=ao" target="_blank" class="icons">{{< iconify academicons:google-scholar >}}</a> <a href="www.linkedin.com/in/tin-buenafe" target="_blank" class="icons">{{< iconify mdi:linkedin >}}</a> <a href="mailto:k.buenafe@uq.edu.au" target="_blank" class="icons">{{< iconify mdi-light:email >}}</a>
+<a href="mailto:l.vanwoesik@student.uq.edu.au" target="_blank" class="icons">{{< iconify mdi-light:email >}}</a>
 :::
 
 ::: {.column width="60%"}
-I am a PhD candidate from the Philippines working on climate-smart marine conservation planning with a particular focus in the high seas. I thoroughly enjoy coding all-day \[(in the dark and in my froggy jumper) with my feet up blasting *Someone Like You* by Adele in my headphones\], working on developing reproducible tools and frameworks used to facilitate the uptake of climate-smart approaches in on-the-ground, applied conservation planning approaches. When I'm not knee-deep in coding, I am navigating the science-policy interface, particularly in relation to the Biodiversity Beyond National Jurisdiction (BBNJ) Agreement, by engaging with key players and stakeholders in the process.
-
-{{< iconify catppuccin:r size=50px >}} {{< iconify catppuccin:powershell size=50px >}} {{< iconify catppuccin:database size=50px >}}
-:::
-:::::
-
-## Ben Lucas
-
-::::: columns
-::: {.column width="40%" align="center"}
-<a href="https://scholar.google.com/citations?hl=en&user=DRhjtzwAAAAJ" target="_blank" class="icons">{{< iconify academicons:google-scholar >}}</a> <a href="https://www.linkedin.com/in/chungyifei/" target="_blank" class="icons">{{< iconify mdi:linkedin >}}</a> <a href="mailto:yifei.chung@uq.edu.au" target="_blank" class="icons">{{< iconify mdi-light:email >}}</a>
-:::
-
-::: {.column width="60%"}
-Fei is a PhD candidate in the School of the Environment at The University of Queensland. His research focuses on policy settings that can enhance climate adaptation while also developing methods to account for the effects of climate extremes in these policies. He primarily uses programming for applications ranging from simulating species persistence across landscapes to modelling alternative policy scenarios.
+Liana is a PhD student working on the Moreton Bay region of Queensland, Australia where she focuses on data analysis of water-quality, land–sea conservation planning and management, marine science, and pollution impacts on coastal ecosystems. Liana loves coding in R for its powerful statistics, amazing data-visualization tools, and huge ecosystem of packages that facilitate impactful science.
 
 {{< iconify catppuccin:r size=50px >}} {{< iconify catppuccin:powershell size=50px >}} {{< iconify catppuccin:database size=50px >}}
 :::
@@ -36,13 +22,27 @@ Fei is a PhD candidate in the School of the Environment at The University of Que
 
 ::::: columns
 ::: {.column width="40%" align="center"}
-<a href="https://scholar.google.com/citations?hl=en&user=mUWn6W0AAAAJ" target="_blank" class="icons">{{< iconify academicons:google-scholar >}}</a> <a href="https://www.linkedin.com/in/rosa-mar-dominguez-martinez-427a5014a/" target="_blank" class="icons">{{< iconify mdi:linkedin >}}</a> <a href="mailto:r.dominguezmartinez@uq.edu.au" target="_blank" class="icons">{{< iconify mdi-light:email >}}</a>
+<a href="mailto:angela.liu2@uq.edu.au" target="_blank" class="icons">{{< iconify mdi-light:email >}}</a>
 :::
 
 ::: {.column width="60%"}
-I'm a PhD candidate at the University of Queensland who somehow went from growing up in the Spanish mountains to becoming completely obsessed with the ocean (turns out, following the sun was a good life strategy). Now I spend my days wrestling with massive datasets in R, creating visualizations that hopefully make sense, and investigating how international seafood trade impacts marine life. My PhD focuses on the sustainability of global seafood supply chains, particularly the trade of threatened species as seafood. When I'm not coding or untangling the complexities of fish economics, I'm dreaming up novel ways to make our seafood consumption more sustainable.
+Angela is a PhD student studying the migratory connectivity of marine megavertebrates, and how policy and spatial planning can better integrate these species. Angela primarily works in R, and she is interested in movement modelling, network analysis, and spatial prioritization.
 
 {{< iconify catppuccin:r size=50px >}} {{< iconify catppuccin:powershell size=50px >}} {{< iconify catppuccin:database size=50px >}}
+:::
+:::::
+
+## Ben Lucas
+
+::::: columns
+::: {.column width="40%" align="center"}
+<a href="https://scholar.google.com/citations?user=ENgDFQcAAAAJ&hl=en" target="_blank" class="icons">{{< iconify academicons:google-scholar >}}</a> <a href="https://www.linkedin.com/in/benalucas/" target="_blank" class="icons">{{< iconify mdi:linkedin >}}</a> <a href="mailto:b.lucas@uq.edu.au" target="_blank" class="icons">{{< iconify mdi-light:email >}}</a>
+:::
+
+::: {.column width="60%"}
+Ben is an ecological connectivity researcher, looking into enhancing connectivity implementation under the global biodiversity framework via clarifying conceptual gaps and comparing methods of connectivity measurement. Ben works with R, Julia, NetLogo, and Bash, but also has interest in Python and statistical inference approaches. 
+
+{{< iconify catppuccin:r size=50px >}} {{< iconify catppuccin:powershell size=50px >}} {{< iconify catppuccin:database size=50px >}} {{< iconify catppuccin:julia size=50px >}}
 :::
 :::::
 
