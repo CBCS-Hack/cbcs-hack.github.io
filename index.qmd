@@ -13,7 +13,7 @@ CBCS Coding Club is a student-led group that aims to provide a common space for 
 
 # Join us!
 
-:computer: Do you love coding? Yes!
+:computer: Do you love coding?
 
 :bulb: Are you interested in learning more about coding?
 
