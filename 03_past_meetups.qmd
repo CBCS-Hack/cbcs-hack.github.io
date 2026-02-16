@@ -8,6 +8,21 @@ If you're interested in leading a meet-up, feel free to contact any of the curre
 
 # Recordings of past meet-ups
 
+
+::::: columns
+::: {.column width="50%" align="center"}
+**Cookie cutter data science and xarray** Led by David Gwyther
+
+{{< video https://youtu.be/N2e3MhzEotg >}}
+:::
+
+::: {.column width="50%" align="center"}
+**purrr in R** Led by Tin Buenafe
+
+{{< video https://youtu.be/RXTQ_CrinoA >}}
+:::
+:::::
+
 ::::: columns
 ::: {.column width="50%" align="center"}
 **Frictionless Data Packages** Led by Zachary Amir
