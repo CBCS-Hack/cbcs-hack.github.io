@@ -8,6 +8,28 @@ If you're interested in leading a meet-up, feel free to contact any of the curre
 
 # Recordings of past meet-ups
 
+:::: columns
+::: {.column width="50%" align="center"}
+**Claude Code** Led by Zachary Amir
+
+{{< video https://youtu.be/wJsmYrizlPA >}}
+:::
+::::
+
+::::: columns
+::: {.column width="50%" align="center"}
+**AI in Science** Led by Chris Brown
+
+{{< video https://www.youtube.com/watch?v=YzlEAM3j_dQ >}}
+:::
+
+::: {.column width="50%" align="center"}
+**Cookie cutter data science** Led by David Gwyther
+
+{{< video https://www.youtube.com/watch?v=N2e3MhzEotg >}}
+:::
+:::::
+
 ::::: columns
 ::: {.column width="50%" align="center"}
 **Frictionless Data Packages** Led by Zachary Amir
@@ -49,22 +71,22 @@ If you're interested in leading a meet-up, feel free to contact any of the curre
 
 # 2025 meet-ups
 
--   **Frictionless data packages** (Zachary Amir)
-    -   [.zip folder](https://www.dropbox.com/scl/fi/b5ligjmki1vkmdyb07ozd/CBCS-Coding-Club_Frictionless.zip?rlkey=npyoaxpe620flznfv9i1zxn3h&dl=0) of materials
--   **Introduciton to `terra` part 2** (Jason Flower, Yi Fei Chung, Tin Buenafe)
--   **Introduction to `terra`** (Jason Flower)
-    -   [Website](https://jflowernet.github.io/intro-terra/) of the materials
-    -   [GitHub repository](https://github.com/jflowernet/intro-terra) of the code
--   **Introduction to `shiny`** (Sandra Neubert)
-    -   [GitHub repository](https://github.com/sandra-neubert/CBCS_shinyIntro) of the materials
--   **Why you shoud use Visual Studio Code (VS Code)** ('Chill coding session' led by Yi Fei Chung and Tin Buenafe)
--   **Introduction to Python** (Megan Jeffers)
--   **Causal Modelling** (Kevin Bairos-Novak)
-    -   [GitHub repository](https://github.com/kevolve/causality-presentation) of the materials
+- **Frictionless data packages** (Zachary Amir)
+  - [.zip folder](https://www.dropbox.com/scl/fi/b5ligjmki1vkmdyb07ozd/CBCS-Coding-Club_Frictionless.zip?rlkey=npyoaxpe620flznfv9i1zxn3h&dl=0) of materials
+- **Introduciton to `terra` part 2** (Jason Flower, Yi Fei Chung, Tin Buenafe)
+- **Introduction to `terra`** (Jason Flower)
+  - [Website](https://jflowernet.github.io/intro-terra/) of the materials
+  - [GitHub repository](https://github.com/jflowernet/intro-terra) of the code
+- **Introduction to `shiny`** (Sandra Neubert)
+  - [GitHub repository](https://github.com/sandra-neubert/CBCS_shinyIntro) of the materials
+- **Why you shoud use Visual Studio Code (VS Code)** ('Chill coding session' led by Yi Fei Chung and Tin Buenafe)
+- **Introduction to Python** (Megan Jeffers)
+- **Causal Modelling** (Kevin Bairos-Novak)
+  - [GitHub repository](https://github.com/kevolve/causality-presentation) of the materials
 
 # 2024 meet-ups
 
--   **Introduction to the High Performance Computing (HPC) facilities** (Yi Fei Chung)
--   **Introduction to GitHub and why you should start using it** (Tin Buenafe)
--   **Best practices in coding** ('Chill session' led by Yi Fei Chung, Tin Buenafe, Rosa Mar Dominguez Martinez)
--   **Welcome! First meeting of the revamped coding club** (Yi Fei Chung, Tin Buenafe, Rosa Mar Dominguez Martinez)
+- **Introduction to the High Performance Computing (HPC) facilities** (Yi Fei Chung)
+- **Introduction to GitHub and why you should start using it** (Tin Buenafe)
+- **Best practices in coding** ('Chill session' led by Yi Fei Chung, Tin Buenafe, Rosa Mar Dominguez Martinez)
+- **Welcome! First meeting of the revamped coding club** (Yi Fei Chung, Tin Buenafe, Rosa Mar Dominguez Martinez)
