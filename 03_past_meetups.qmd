@@ -24,7 +24,7 @@ If you're interested in leading a meet-up, feel free to contact any of the curre
 :::
 
 ::: {.column width="50%" align="center"}
-**Cookie cutter data science** Led by David Gwyther
+**Cookie Cutter Data Science** Led by David Gwyther
 
 {{< video https://www.youtube.com/watch?v=N2e3MhzEotg >}}
 :::
